@@ -26,4 +26,6 @@
 
     node ./api/test.js
 
+    git push
+
 */
